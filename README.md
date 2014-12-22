@@ -35,29 +35,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Fratres sobrii estote. I. Pet. 5. 8. Or, An admonition to the fryars of this Kingdome of Ireland to 
+
 #####Body#####
 
-1. CAP. I.
+1. TO POPE VRBANUS VIII. The Epistle of Paul Harris Prieſt.
 
-1. CAP. II. The Authors Apology, and a defence of his Writings.
+1. A FAMILIAR DISPVTATION WITH THE FRYARS, PROPOVNDED BY THE AVTHOR
 
-1. CAP. III. The power of the Scapular and Habit ever the ſoules in Purgatory.
+    _ CAP. I.
 
-1. CAP. IV. That the Regulars of this Kingdome are neither Roman Catholiques, Protestants, nor good Subjects, and therefore neither by the Church nor commonwealth to be permitted to live among them.
+    _ CAP. II. The Authors Apology, and a defence of his Writings.
 
-1. CAP. V. Whether it be true Martyrdome to dye in defenes of the two former Tenents, held both in Theory and Practiſe by our Archbiſhop Tho. Flemming, and his Friars.
+    _ CAP. III. The power of the Scapular and Habit ever the ſoules in Purgatory.
 
-1. CAP. VI. An Apology of the Author for the ſharpneſſe of his stile.
+    _ CAP. IV. That the Regulars of this Kingdome are neither Roman Catholiques, Protestants, nor good Subjects, and therefore neither by the Church nor commonwealth to be permitted to live among them.
 
-1. CAP. VII. The state of the Queſtion is this: Whether in theſe Kingdomes under the government of the King of Great Brittainy. A man conventing an Eccleſiasticall perſon in a cauſe meerely civill before the tempotall Magiſtrate, hath ipſo facto incurred Excom, De Iurc.
+    _ CAP. V. Whether it be true Martyrdome to dye in defenes of the two former Tenents, held both in Theory and Practiſe by our Archbiſhop Tho. Flemming, and his Friars.
 
-1. CAP. VIII. An Objection anſwered.
+    _ CAP. VI. An Apology of the Author for the ſharpneſſe of his stile.
 
-1. An Epistle of the Author unto Thomas Flemming alias Barnwell Archbiſhop of Dublin.
+    _ CAP. VII. The state of the Queſtion is this: Whether in theſe Kingdomes under the government of the King of Great Brittainy. A man conventing an Eccleſiasticall perſon in a cauſe meerely civill before the tempotall Magiſtrate, hath ipſo facto incurred Excom, De Iurc.
+
+    _ CAP. VIII. An Objection anſwered.
+
+    _ An Epistle of the Author unto Thomas Flemming alias Barnwell Archbiſhop of Dublin.
 
 #####Back#####
-Fratres sobrii estote. I. Pet. 5. 8. Or, An admonition to the fryars of this Kingdome of Ireland to 
+I Heare, that ſome of our divines (if worthy that name) take great exceptions unto me, for calling tPAge 28. lin. 2. read a thouſand owo hundred. pag. 29. lin. 20. for cis, read ea. pag. 49 for Patric
 **Types of content**
 
   * There are 20 **verse** lines!
